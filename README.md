@@ -169,7 +169,7 @@ and store our scripts in /scripts directory.
 
 Database level directory called logical directory.
 
-\`\$sqlplus <user>/<password>@//<IP>/<Instance_name> as sysdba
+`\$sqlplus <user>/<password>@//<IP>/FREE as sysdba`
 
 `SQL> create directory EXP_DUMP as '/opt/oracle/oradata/exports';`
 
