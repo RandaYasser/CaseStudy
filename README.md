@@ -18,7 +18,8 @@ Automation: Implement automated backup and monitoring scripts to ensure database
 
 ## Entity-Relationship Diagram (ERD)
 
-![](Pasted%20image%2020241225154727.png)
+![image](https://github.com/user-attachments/assets/312f4049-d6e7-4fec-af3e-2014db6aaf09)
+
 
 ## Design takeaways
 
@@ -47,7 +48,7 @@ The ERD represents the following entities and their relationships:
 
 ## Schema Tables
 
-![](Pasted%20image%2020241225133809.png)
+![image](https://github.com/user-attachments/assets/5ab279dc-5094-40ee-ade9-4efb6261bb6e)
 \### 1. Student
 
 - **Columns**
