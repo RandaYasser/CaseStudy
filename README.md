@@ -1,4 +1,4 @@
-This project aims to design and implement a robust Data Management System for a university, leveraging SQL, PLSQL, Advanced PLSQL, Red Hat, and Bash scripting. The system is designed to manage various aspects of university operations, including student records, course management, department administration, and academic performance tracking. 
+This project aims to design and implement a robust Data Management System for a university, leveraging SQL, PLSQL, Red Hat administration, and Bash scripting. The system is designed to manage various aspects of university operations, including student records, course management, department administration, and academic performance tracking. 
 
 # Overview
 
